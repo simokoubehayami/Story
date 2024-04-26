@@ -1,1 +1,2 @@
-It is chapter2 text file
+It is chapter2 text file.
+Chapter2 is branch of alien-plot.
